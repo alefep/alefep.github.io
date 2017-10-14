@@ -53,7 +53,7 @@ body main .menu-responsive {
 .body {
   width: 100%;
   height: 530px;
-  background-image: url("https://i.imgur.com/7DhHUCt.png");
+  background-image: url("../img/background.png");
 
 }
 .meio {
@@ -73,15 +73,15 @@ body main .menu-responsive {
   text-align: center;
  padding-top: 5%;
 }
-
 .meio h3 {
   font-family: 'Slabo 27px', serif;
   color:white;
   text-align: center;
  padding-top: 5%;
-  margin-left:5%;
-  margin-right:5%;
+ margin-left: 5%;
+ margin-right: 5%;
 }
+
 .btc-buy {
   position: relative;
   top: 160px;
@@ -180,7 +180,7 @@ text-align: center;
     height: 50px;
     display: flex;
     width: 100%;
-    background-color: #333;
+    background-color: #fff;
     align-items: center;
   }
   body main .menu-responsive img {
@@ -268,7 +268,7 @@ text-align: center;
     height: 50px;
     display: flex;
     width: 100%;
-    background-color: #333;
+    background-color: #fff;
     align-items: center;
   }
   body main .menu-responsive img {
@@ -335,7 +335,7 @@ text-align: center;
     height: 50px;
     display: flex;
     width: 100%;
-    background-color: #333;
+    background-color: #fff;
     align-items: center;
   }
   body main .menu-responsive img {

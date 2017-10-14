@@ -73,6 +73,15 @@ body main .menu-responsive {
   text-align: center;
  padding-top: 5%;
 }
+
+.meio h3 {
+  font-family: 'Slabo 27px', serif;
+  color:white;
+  text-align: center;
+ padding-top: 5%;
+  margin-left:5%;
+  margin-right:5%;
+}
 .btc-buy {
   position: relative;
   top: 160px;
